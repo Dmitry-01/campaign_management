@@ -1,0 +1,22 @@
+1699274484141	geckodriver	INFO	Listening on 127.0.0.1:50031
+1699274635852	geckodriver	INFO	Listening on 127.0.0.1:50086
+1699276172350	geckodriver	INFO	Listening on 127.0.0.1:50603
+1699276275784	geckodriver	INFO	Listening on 127.0.0.1:50643
+1699450139051	geckodriver	INFO	Listening on 127.0.0.1:51027
+1699450139569	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "--remote-debugging-port" "51028" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r_/tk849y3x4wb260wblm1g1zrw0000gn/T/rust_mozprofileEQkQED"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699450140075	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1699450140622	Marionette	INFO	Listening on port 51045
+WebDriver BiDi listening on ws://127.0.0.1:51028
+Read port: 51045
+1699450140897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51028/devtools/browser/21faaffc-9fb5-4584-8465-77d0d2c115dc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.buzz.guru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.buzz.guru."
+1699450157912	Marionette	INFO	Stopped listening on port 51045
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 133: Script terminated by timeout at:
+B/<@https://mc.yandex.ru/metrika/tag.js:133:66
+
+Invalid port. Exiting...
